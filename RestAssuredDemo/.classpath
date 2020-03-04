@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/rest-assured-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/groovy-json-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/json-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/btf-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/guava-16.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/hamcrest-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jackson-annotations-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jackson-core-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jackson-coreutils-1.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jackson-databind-2.10.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/joda-time-2.9.7.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jopt-simple-5.0.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/json-schema-core-1.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/json-schema-validator-2.2.10.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/json-schema-validator-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/jsr305-3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/libphonenumber-8.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/mailapi-1.4.3.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/msg-simple-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/rhino-1.7.7.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/uri-template-0.9.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/activation-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/groovy-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/groovy-xml-2.5.8.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/jakarta.activation-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/jakarta.xml.bind-api-2.3.2.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/jaxb-osgi-2.3.0.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/tagsoup-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/xml-path-4.2.0.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-path/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/docs/json-schema-validator-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/json-schema-validator/docs/json-schema-validator-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/json-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/json-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/rest-assured-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/rest-assured-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/xml-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/rest-assured/docs/xml-path-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/docs/rest-assured-common-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/docs/rest-assured-common-4.2.0-sources.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/docs/xml-path-4.2.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="E:/Selenium/Jar files/xml-path/docs/xml-path-4.2.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
